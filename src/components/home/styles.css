@@ -1,0 +1,25 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  width: auto;
+  justify-content: center;
+}
+.title__button_home {
+  display: flex;
+  justify-content: space-between;
+}
+
+a {
+  cursor: pointer;
+}
+
+.img_empty {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 30px;
+}
+
+h4 {
+  margin-bottom: 50px;
+}
